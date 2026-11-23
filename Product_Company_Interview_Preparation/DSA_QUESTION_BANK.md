@@ -23,8 +23,8 @@ For every problem:
 
 | # | Problem | Level | Main pattern |
 |---:|---|---|---|
-| 1 | Two Sum | Easy | HashMap |
-| 2 | Contains Duplicate | Easy | HashSet |
+| 1 | Two Sum | Easy | HashMap -- Done|
+| 2 | Contains Duplicate | Easy | HashSet -- Done |
 | 3 | Valid Anagram | Easy | Frequency counting |
 | 4 | Best Time to Buy and Sell Stock | Easy | One-pass tracking |
 | 5 | Product of Array Except Self | Medium | Prefix/suffix |
